@@ -958,5 +958,8 @@ body {
 
 
 <?php
+
+include 'default.php';
+
 }
 ?>
